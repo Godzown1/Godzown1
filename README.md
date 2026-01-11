@@ -1,8 +1,9 @@
-- 👋 Hi, I am Abimbola, a passionate data analyst with an educational background in International Business and Civil Engineering. I have years of experience in the education sector, where I was involved in teaching and coaching. My desire to share information with others has fuelled much of my career.
-I ventured into entrepreneurship, establishing a start-up in the bag manufacturing industry a few years ago. Although the business is temporarily closed because of academic pursuits,the experience taught me lots in business strategy, operations, and the challenges of running a small enterprise.
-- 👀 I am interested in how data can impact business decisions,leveraging technology to enhance education, as well as the acceleration of growth and expansion for start-ups.
-- 🌱 I am currently on a virtual intership program with JP Morgan Chase and Co., an avenue for continuous expansion of knowledge in my field.
-- 💞️ I am eager to connect with entrepreneurs, business and data analysts, educators and other like-minded professionals.
+- 👋 Hi, I am an administrative and data operations professional with a background in Data Analytics and experience supporting construction project environments.
+In my current role, I support daily site operations through administrative coordination, system access management, data handling, and reporting support, ensuring information accuracy and smooth communication across teams.
+I hold a Masters degree in International Business with Data Analytics and a Civil Engineering background, which allows me to approach operational data with strong analytical and problem-solving skills.
+- 👀 I am particularly interested in data-focused, quality evaluation, and remote support roles, where attention to detail, structured thinking, and process compliance are essential.
+- 🌱 I am currently strengthening my skills in SQL (SQL Server), Microsoft 365, and data reporting, with a long-term goal of transitioning into remote data analysis and AI evaluation work.
+- 💞️ I am eager to connect with data-focused professionals, data analysts, educators and other like-minded professionals.
 - 📫 Reach me on: https://www.linkedin.com/in/abimbola-badiru/
 
 
